@@ -1,0 +1,1 @@
+1. add some type of debugging for the video input, maybe even one which prints what goes to the model itself
